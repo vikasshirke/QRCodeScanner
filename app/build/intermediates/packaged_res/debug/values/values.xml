@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="semiTransparent">#80000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">QRCodeReader</string>
+    <string name="camera_permission_denied_cannot_open_scanner">Camera permission denied. Cannot open scanner.</string>
+    <string name="open_qr_scanner">Open QR Scanner</string>
+    <string name="qr_code_result_will_be_displayed_here">QR Code Result will be displayed here</string>
+    <string name="qr_code_scanner">QR Code Scanner</string>
+    <string name="qr_code_scanning_failed_or_canceled">QR Code scanning failed or canceled.</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="scanning_qr_code">Scanning QR Code</string>
+    <style name="Base.Theme.QRCodeReader" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background_gradient</item>
+        <item name="android:textColor">#212121</item>
+        <item name="android:colorAccent">#00d2ff</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        
+        
+    </style>
+    <style name="Theme.QRCodeReader" parent="Base.Theme.QRCodeReader"/>
+</resources>

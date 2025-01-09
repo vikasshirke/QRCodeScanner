@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-pngs-36:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-pngs-36:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-pngs-36:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\anim_alpha_animation.xml.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\anim\\alpha_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\drawable_splash_background_gradient.xml.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\drawable\\splash_background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.dtt.qrcodereader.app-merged_res-40:/layout_activity_splash.xml.flat",
+        "source": "com.dtt.qrcodereader.app-main-42:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\drawable_focus_square_border.xml.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\drawable\\focus_square_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-pngs-36:\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\drawable_ic_qr_code_small.png.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\drawable\\ic_qr_code_small.png"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\layout_activity_qr_code_scanner.xml.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\layout\\activity_qr_code_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-pngs-36:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-pngs-36:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-pngs-36:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-merged_res-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\digit\\.gradle\\daemon\\8.2\\com.dtt.qrcodereader.app-main-42:\\drawable\\ic_launcher_background.xml"
+    }
+]
