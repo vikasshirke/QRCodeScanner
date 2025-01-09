@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QRCodeReader</string>
+    <string name="qr_code_scanner">QR Code Scanner</string>
+    <string name="qr_code_result_will_be_displayed_here">QR Code Result will be displayed here</string>
+    <string name="open_qr_scanner">Open QR Scanner</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="scanning_qr_code">Scanning QR Code</string>
+    <string name="qr_code_scanning_failed_or_canceled">QR Code scanning failed or canceled.</string>
+    <string name="camera_permission_denied_cannot_open_scanner">Camera permission denied. Cannot open scanner.</string>
+</resources>
