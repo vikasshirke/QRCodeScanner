@@ -15,6 +15,18 @@
         android:layout_height="match_parent" />
 
     <TextView
+        android:id="@+id/headingTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/position_the_qr_code_inside_the_frame_to_start_scanning"
+        android:textColor="@color/white"
+        android:layout_margin="16dp"
+        android:gravity="center"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/scanning_qr_code"

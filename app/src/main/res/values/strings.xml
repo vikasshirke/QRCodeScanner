@@ -7,4 +7,5 @@
     <string name="scanning_qr_code">Scanning QR Code</string>
     <string name="qr_code_scanning_failed_or_canceled">QR Code scanning failed or canceled.</string>
     <string name="camera_permission_denied_cannot_open_scanner">Camera permission denied. Cannot open scanner.</string>
+    <string name="position_the_qr_code_inside_the_frame_to_start_scanning">Position the QR Code inside the frame to start scanning.</string>
 </resources>
