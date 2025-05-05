@@ -1,0 +1,36 @@
+name: Build and Upload APK to Google Drive
+
+on:
+  push:
+    tags:
+      - 'v*'  # Only run this when you push a tag like v1.0.0
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Java
+      uses: actions/setup-java@v4
+      with:
+        distribution: 'temurin'
+        java-version: '17'
+
+    - name: Build APK
+      run: ./gradlew assembleRelease
+
+    - name: Install rclone
+      run: |
+        curl https://rclone.org/install.sh | sudo bash
+
+    - name: Setup rclone config
+      run: |
+        mkdir -p ~/.config/rclone
+        echo "${{ secrets.RCLONE_CONF }}" > ~/.config/rclone/rclone.conf
+
+    - name: Upload APK to Google Drive
+      run: |
+        rclone copy app/build/outputs/apk/release/ gdrive:/Builds/ --progress
