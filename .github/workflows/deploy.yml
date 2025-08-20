@@ -3,7 +3,7 @@ name: Android CI
 on:
   push:
     branches:
-      - main   # or master, change as per your repo
+      - main   # or master, adjust as per your repo
   pull_request:
 
 jobs:
@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Set up Java (Android Gradle Plugin requires JDK 17 now)
+      # Set up Java (Gradle requires JDK 17 now)
       - name: Set up JDK 17
         uses: actions/setup-java@v4
         with:
@@ -27,13 +27,9 @@ jobs:
       - name: Grant execute permission for gradlew
         run: chmod +x gradlew
 
-      # Build Debug APK (your app)
+      # Build Debug APK
       - name: Build Debug APK
         run: ./gradlew assembleDebug
-
-      # Build Debug AAR (your library module, replace "your-library-module")
-      - name: Build Debug AAR
-        run: ./gradlew :your-library-module:assembleDebug
 
       # Upload Debug APK artifact
       - name: Upload APK
@@ -41,10 +37,3 @@ jobs:
         with:
           name: app-debug-apk
           path: app/build/outputs/apk/debug/*.apk
-
-      # Upload Debug AAR artifact
-      - name: Upload AAR
-        uses: actions/upload-artifact@v4
-        with:
-          name: library-debug-aar
-          path: your-library-module/build/outputs/aar/*.aar
